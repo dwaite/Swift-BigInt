@@ -1,3 +1,5 @@
+// swift-tools-version:5.1
+
 import PackageDescription
 
 let deps: [Package.Dependency]
